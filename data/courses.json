@@ -75,6 +75,6 @@
     "name": "Code with Jerry",
     "published_date": "2022-09-05 14:27:34",
     "img": "https://as2.ftcdn.net/v2/jpg/01/25/13/17/1000_F_125131780_inb9letiWVlvNEQNoB04NYN4P0d7ZFs7.jpg",
-    "Description": " Node. js (Node) is an open source development platform for executing JavaScript code server-side. Node is useful for developing applications that require a persistent connection from the browser to the server and is often used for real-time applications such as chat, news feeds and web push notification Node . A node is a basic unit of a data structure, such as a linked list or tree data structure. Nodes contain data and also may link to other nodes. Links between nodes are often implemented by pointers."
+    "Description": " Node. js (Node) is an open source development platform for executing JavaScript code server-side. Node is useful for developing applications that require a persistent connection from the browser to the server and is often used for real-time applications such as chat, news feeds and web push notification Node . A node is a basic unit of a data structure, such as a linked list or tree data structure. Nodes contain data and also may link to other nodes. Links between nodes are often implemented by pointers.Node. js is a cross-platform open-source runtime environment to run web applications outside the client's browser. Node. js allows rapid development, and it is scalable, with a vast ecosystem of modules that make development easier."
   }
 ]
