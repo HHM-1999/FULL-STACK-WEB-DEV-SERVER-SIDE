@@ -8,7 +8,7 @@ const categories = require('./data/catagories.json');
 app.use(cors())
 
 app.get('/', (req, res) => {
-    res.send('API is running');
+    res.send('API is running now');
 });
 
 app.get('/course-categories', (req, res) => {
